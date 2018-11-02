@@ -1,0 +1,5 @@
+The technology they picked is intuitive, but it is very complex and sometimes redundant. 
+The project could be done by only in the background to label all of the images, but it also provides
+a user interface of the app and need human resourses to type in the labels and mark the utility poles.
+The google vision api provides the label part and I think it can be used to integrated into the app to 
+let the use of human resourses reduce.
